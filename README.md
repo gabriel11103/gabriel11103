@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+Actualmente estudiante de ingenieria en sistemas de la informacion
 
+Aprendi/aprendiendo a usar:
+
+-HTML
+-CSS
+-JAVASCRIPT
+-PYTHON
 
 <!--
 **gabriel11103/gabriel11103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
