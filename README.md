@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Actualmente estudiante de ingenieria en sistemas de la informacion
+Actualmente estudiante de ingenieria en sistemas de la informacion.
 
 Aprendi/aprendiendo a usar:
 
