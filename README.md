@@ -2,7 +2,7 @@
 
 Actualmente estudiante de ingenieria en sistemas de informacion.
 
-Aprendi/aprendiendo:
+Aprendiendo:
 
 * HTML
 * CSS
